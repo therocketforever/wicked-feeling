@@ -1,14 +1,34 @@
 body {
- background-color: #E894B5;
- font-family: sans-serif;
+  background-color: #E894B5;
+  color: #444;
+  font-family: sans-serif;
 }
 
 h1 {
-  width: 100%;
+  background-color: black;
+  color: #E894B5;
+  width: 14rem;
   margin: auto;
-  text-align:center;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  text-align: center;
+  margin-top: 1em;
+  padding-top: 0em;
+  padding-right : 1em;
+  padding-bottom: 0em;
+  margin-bottom: 0.05em;
+}
+
+h2 {
+  background-color: black;
+  color: #E894B5;
+  width: 14.7rem;
+  margin: auto;
+  text-align: center;
+  margin-top: 0.05em
+  padding-top: 0em;
+  padding-left: 0.6em;
+  padding-right: 0.25em;
+  padding-bottom: 0em;
+  margin-bottom: 1em;
 }
 
 svg {
@@ -27,4 +47,18 @@ p {
 
 .glink {
   text-align:center;
+  background-color: black;
+  color: #E894B5;
+  margin: auto;
+  width: 10rem;
+  margin-top: 20em;
+  padding-top: 0em;
+  padding-bottom: 0em;
+  margin-bottom: 1em;
+}
+
+a {
+  color: #E894B5;
+  text-decoration: none;
+  font-weight: bold;
 }
