@@ -45,6 +45,10 @@ p {
   padding-bottom: 1em;
 }
 
+.quote {
+  color: black;
+}
+
 .glink {
   text-align:center;
   background-color: black;
