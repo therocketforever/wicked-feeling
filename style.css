@@ -23,12 +23,20 @@ h2 {
   width: 14.7rem;
   margin: auto;
   text-align: center;
-  margin-top: 0.05em
+  margin-top: 0.05em;
   padding-top: 0em;
   padding-left: 0.6em;
   padding-right: 0.25em;
   padding-bottom: 0em;
   margin-bottom: 1em;
+}
+
+pre {
+  margin: auto;
+  width: 23.5rem;
+} 
+
+ code {
 }
 
 svg {
