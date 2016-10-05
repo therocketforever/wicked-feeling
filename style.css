@@ -39,9 +39,14 @@ pre {
  code {
 }
 
+.public-key {
+  font-size: 10%;
+}
+
 svg {
   display: block;
   width: 100%;
+  padding-left: 1em;
   margin: auto;
 }
 
